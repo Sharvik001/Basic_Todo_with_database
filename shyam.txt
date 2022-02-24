@@ -13,6 +13,15 @@ yeah you are right! I am going to watch the match rn xD
 
 yea yea sure sure After this can we have a short meeeting on zoom about the project?
 
+<<<<<<< HEAD
 Yeah true! I am going to watch the match xD
 
 It's good I think
+=======
+Yeah sure we are having a meeting already
+
+Hello guys I am new member now dont you dare to ignore me
+
+Okay ! let's work together now .
+Hello Welcome 
+>>>>>>> d5996885967db6192c1bd1ee0cc868e3413b58fe
